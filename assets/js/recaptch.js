@@ -7,7 +7,7 @@ const formBtn = document.querySelector("[data-form-btn]");
 var onloadCallback = function () {
 
   grecaptcha.render(document.getElementById('html_element'), {
-    'sitekey': '6Ldn6E8qAAAAAE22jjvXhDM_86pIJnK3z77Vl11x'
+    'sitekey': '6LdXDo8qAAAAAFjfsuUKqdCUBBX2fdNeCGvnHEng'
   });
 
 };
